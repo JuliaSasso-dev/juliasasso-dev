@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Julia Sasso, tenho 20 anos e sou natural de Santa Catarina. Atualmente, estou cursando técnico em Desenvolvimento de Sistemas e ou apaixonada por tecnologia.
+Me chamo Julia Sasso, tenho 20 anos e sou natural de Santa Catarina. Atualmente, estou cursando técnico em Desenvolvimento de Sistemas e apaixonada por tecnologia.
 
 ---
 
