@@ -56,4 +56,12 @@ style="padding-rigth: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-          
+<img 
+align="left"
+alt="postsql"
+title="postsql"
+width="30px"
+style="padding-rigth: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+/>
+
