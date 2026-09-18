@@ -56,12 +56,4 @@ style="padding-rigth: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-<img 
-align="left"
-alt="docker"
-title="docker"
-width="30px"
-style="padding-rigth: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-/>
 
