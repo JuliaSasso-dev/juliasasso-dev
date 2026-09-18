@@ -58,8 +58,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 <img 
 align="left"
-alt="postsql"
-title="postsql"
+alt="docker"
+title="docker"
 width="30px"
 style="padding-rigth: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
